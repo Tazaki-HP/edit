@@ -17,8 +17,8 @@ Here is Fumie Tazaki's web page.
 .. toctree::
    :maxdepth: 1
 
-   CV
-   Achievement
+   contents/CV
+   contents/Achievement
 
 ..   3.Reseach_Theme
 ..   4.Others
