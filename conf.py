@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 #
 # 2017/09/08 documentation build configuration file, created by
 # sphinx-quickstart on Fri Sep 08 09:10:15 2017.
@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'2017/09/08'
+project = u"Tazaki's web page"
 copyright = u'2017, yohei kudo'
 author = u'yohei kudo'
 
@@ -91,10 +91,12 @@ html_theme = 'nature'
 #
 # html_theme_options = {}
 
+html_title = "Tazaki's web page"
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['_static']
+#html_static_path = ['_static']
 
 
 # -- Options for HTMLHelp output ------------------------------------------
@@ -153,5 +155,6 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
+####
 
 
