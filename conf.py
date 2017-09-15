@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 #
 # 2017/09/08 documentation build configuration file, created by
 # sphinx-quickstart on Fri Sep 08 09:10:15 2017.
@@ -91,9 +91,6 @@ html_theme = 'nature'
 #
 # html_theme_options = {}
 
-#【設定の追加】
-# htmlドキュメントのタイトル：左上topと左下bottomnに表示
-# 
 html_title = "Tazaki's web page"
 
 # Add any paths that contain custom static files (such as style sheets) here,
