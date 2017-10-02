@@ -1,0 +1,89 @@
+/*   total:13 
+【css作成のポイント】
+   目的のタグ（例.h1,ul,p)を探し、「セレクタ {プロパティ名: プロパティ値;}」の型にする。
+　　　絞り込みがシンプルだと多くのタグに適応されてしまうので、多くの場合は複数のセレクタ (div.related　, .section等々)を組み合わせる必要がある。
+*/ 
+
+/* 1.すべての文字の設定：【フォント（timesを優先的に使用。その後、明朝体優先）
+                   サイズ設定（初期設定：font-size: 100%;）】 */
+* body {
+    font-family: "Times New Roman","MS Mincho","ヒラギノ角ゴ　Pro　W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo",sans-serif;
+    font-size: 130%;
+    background-color: #11303d;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+/* 2.ヘッダーの縦幅,フォントサイズ */ /* （初期設定,line-height: 45px; font-size: 90%;） */
+div.related {
+  line-height: 45px;
+  font-size: 90%;
+}
+
+/* 3.ヘッダーの文字の横幅 */ 
+div.related ul{
+  width: 1150px;
+  margin: 0 auto 0 auto;
+}
+
+/* 4.ドキュメントの横幅 */ 
+div.document {
+	width: 1150px;
+    margin: 0 auto 0 auto;
+}
+
+/* 5.タイトルのフォント設定 (ゴシック体優先）*/ 
+div.body h1, div.body h2, div.body h3, div.body h4, div.body h5, div.body h6 {
+	font-family: "メイリオ","Meiryo","ヒラギノ角ゴ　Pro　W3","Hiragino Kaku Gothic Pro",sans-serif;
+}
+
+/* 6.タイトル文字の大きさ：例　「FUMIE TAZAKI」、「履歴（CV）」　*/ /*初期設定:200%*/
+div.body h1 {
+    font-size: 200%;
+/*	text-align: center;*/
+}
+
+/*　7.行間隔 topページ:上　「履歴（CV）」等 */ /* 初期設定:130%*/
+div.body div#fumie-tazaki p {
+    line-height: 150%;
+}
+
+/*　8.行間隔 topページ:下　「履歴（CV）」等 */ /* 初期設定:130%*/
+/* 「200%」の設定で文字と文字の縦間隔が一文字分になる。*/
+div.body div#fumie-tazaki div.toctree-wrapper li.toctree-l1 {
+    line-height: 230%;
+}
+
+/* 9.サブタイトルの大きさ：例　「名前」、「所属」、「論文のタイトル等」　*/ /*初期設定:160%*/
+div.body h2 {
+    font-size: 120%;
+}
+
+/*　10.行間隔:「履歴（CV）」の本文 */ /* 初期設定:130%*/
+div.body div#cv blockquote div, div.body blockquote div p, div.body div#cv p,div.body div#cv li {
+    line-height: 160%;
+}
+
+/* 11.行間隔 */ /*初期設定:130%*/
+div.body dd, div.body li, div.body blockquote {
+    text-align: justify;
+    line-height: 170%;
+}
+
+/*　12.ピンポイント設定:論文タイトルのフォント:times,(h2タグ) */
+div.body div#id1 .section h2 {
+    font-family: "Times New Roman","MS Mincho","ヒラギノ明朝　Pro","Hiragino Kaku Gothic Pro",sans-serif;
+}
+
+/* 13.文字の先頭を揃える */
+ol.upperalpha {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+/* 14.ピンポイント設定:書籍のタイトル,フォント:times,縮小 */ /*初期設定:140%*/
+div.body h3 {
+	font-family: "Times New Roman","MS Mincho","ヒラギノ明朝　Pro","Hiragino Kaku Gothic Pro",sans-serif;
+	font-size: 120%;
+} 
