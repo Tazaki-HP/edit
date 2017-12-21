@@ -17,25 +17,25 @@
 
 /* 2.ヘッダーの縦幅,フォントサイズ */ /* （初期設定,line-height: 45px; font-size: 90%;） */
 div.related {
-  line-height: 45px;
-  font-size: 90%;
+    line-height: 45px;
+    font-size: 90%;
 }
 
 /* 3.ヘッダーの文字の横幅 */ 
 div.related ul{
-  width: 1150px;
-  margin: 0 auto 0 auto;
+    width: 1150px;
+    margin: 0 auto 0 auto;
 }
 
 /* 4.ドキュメントの横幅 */ 
 div.document {
-	width: 1150px;
+    width: 1150px;
     margin: 0 auto 0 auto;
 }
 
 /* 5.タイトルのフォント設定 (ゴシック体優先）*/ 
 div.body h1, div.body h2, div.body h3, div.body h4, div.body h5, div.body h6 {
-	font-family: "メイリオ","Meiryo","ヒラギノ角ゴ　Pro　W3","Hiragino Kaku Gothic Pro",sans-serif;
+    font-family: "メイリオ","Meiryo","ヒラギノ角ゴ　Pro　W3","Hiragino Kaku Gothic Pro",sans-serif;
 }
 
 /* 6.タイトル文字の大きさ：例　「FUMIE TAZAKI」、「履歴（CV）」　*/ /*初期設定:200%*/
@@ -78,12 +78,18 @@ div.body div#id1 .section h2 {
 
 /* 13.文字の先頭を揃える */
 ol.upperalpha {
-	list-style-type: none;
-	padding-left: 0px;
+    list-style-type: none;
+    padding-left: 0px;
 }
 
 /* 14.ピンポイント設定:書籍のタイトル,フォント:times,縮小 */ /*初期設定:140%*/
 div.body h3 {
-	font-family: "Times New Roman","MS Mincho","ヒラギノ明朝　Pro","Hiragino Kaku Gothic Pro",sans-serif;
-	font-size: 120%;
+    font-family: "Times New Roman","MS Mincho","ヒラギノ明朝　Pro","Hiragino Kaku Gothic Pro",sans-serif;
+    font-size: 120%;
 } 
+
+/* 15. トップ画面　写真の縦に合わせた内枠を指定:　固定：615px　　　　
+　　　　　現状：id「fumie-tazaki」のセレクタを使用*/
+#fumie-tazaki{
+    height: 615px;
+}
