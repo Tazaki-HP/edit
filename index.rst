@@ -8,9 +8,9 @@ FUMIE TAZAKI
 =======================================================
 
 .. image:: photo.jpg
-   :scale: 355%
-   :width: 150px
-   :height: 100px
+   :scale: 100%
+   :width: 532.5px
+   :height: 543.2px
    :align: right
 
 |
