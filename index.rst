@@ -28,3 +28,4 @@ Here is Fumie Tazaki's web page.
    :maxdepth: 1
 
    contents/CV
+   contents/Achievement
