@@ -64,7 +64,7 @@
 
 “Pilot KaVA monitoring on the M87 jet: confirming the inner jet structure and superluminal motions at sub-pc scales”
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    `Hada, K., Park, J., Kino, M., Niinuma, K., Sohn, B., Ro, H., Jung, T., Algaba, J., Zhao, G., Lee, S., Akiyama, K., Trippe, S., Wajima, K., Sawada-Satoh, S., Tazaki, F., Cho, I., Hodgson, J., Lee, J., Hagiwara, Y., Honma, M., Koyama, S., Oh, J., Lee, T., Yoo. H., Kawaguti, N., Roh, D., Oh, S., Yeom, J., Jung, D., Oh, C., Kim, H., Hwang, J., Byun, D., Cho, S., Kim, H., Kobayashi, H., & Shibata, K., 2017, PASJ, accepted <http://adsabs.harvard.edu/abs/2017arXiv170602066H>`_
+    `Hada, K., Park, J., Kino, M., Niinuma, K., Sohn, B., Ro, H., Jung, T., Algaba, J., Zhao, G., Lee, S., Akiyama, K., Trippe, S., Wajima, K., Sawada-Satoh, S., Tazaki, F., Cho, I., Hodgson, J., Lee, J., Hagiwara, Y., Honma, M., Koyama, S., Oh, J., Lee, T., Yoo. H., Kawagchi, N., Roh, D., Oh, S., Yeom, J., Jung, D., Oh, C., Kim, H.-R., Hwang, J., Byun, D., Cho, S., Kim, H.-G., Kobayashi, H., & Shibata, K., 2017, PASJ, 69, 71 <http://adsabs.harvard.edu/abs/2017arXiv170602066H>`_
 
 “Superresolution Interferometric Imaging with Sparse Modeling Using Total Squared Variation: Application to Imaging the Black Hole Shadow”
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
