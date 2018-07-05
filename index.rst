@@ -7,19 +7,25 @@
 FUMIE TAZAKI
 =======================================================
 
+.. image:: photo.jpg
+   :scale: 100%
+   :width: 532.5px
+   :height: 543.2px
+   :align: right
+
+|
+
 田崎文得のホームページです。
 
 Here is Fumie Tazaki's web page.
 
+|
 
 ===============
+
 
 .. toctree::
    :maxdepth: 1
 
    contents/CV
    contents/Achievement
-
-..   3.Reseach_Theme
-..   4.Others
-

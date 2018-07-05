@@ -4,7 +4,7 @@
 
 “Suzaku Observations of the Radio Galaxy 4C 50.55 (IGR J21247+5058)”(ポスター)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, Y. Ueda, N. Naoki, S. Eguchi, Y. Ishino, Y. Terashima, R. Mushotzky, 2009年6月, 北海道小樽市, The Suzaku Conference 2009
+    \F. Tazaki, Y. Ueda, N. Naoki, S. Eguchi, Y. Ishino, Y. Terashima, R. Mushotzky, 2009年6月, 北海道小樽市, The Suzaku Conference 2009
 
 “電波銀河 4C 50.55 (IGR J21247+5058) の「すざく」による観測”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -12,11 +12,11 @@
 
 “Suzaku Observations of Broad Line Radio Galaxy 4C 50.55 and Studies of Radio Galaxies with ASTRO-H”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, Y. Ueda, 2010年8月, 群馬県みなかみ町, 1st ASTRO-H Summer Workshop
+    \F. Tazaki, Y. Ueda, 2010年8月, 群馬県みなかみ町, 1st ASTRO-H Summer Workshop
 
 “Suzaku Observations of Narrow-Line Radio Galaxies (3C 403 and IC 5063)”(ポスター)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, 2011年2月, 京都府京都市, GCOE Symposium "Emerging Frontiers of Physics" 
+    \F. Tazaki, 2011年2月, 京都府京都市, GCOE Symposium "Emerging Frontiers of Physics" 
 
 “狭輝線電波銀河 3C 403、IC 5063 の「すざく」による観測”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -24,15 +24,15 @@
 
 “Suzaku Observations of Two Narrow-Line Radio Galaxies (3C 403 and IC 5063”(ポスター)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, Y. Ueda, Y. Terashima, R. Mushozky, 2011年7月, U.S., Exploring the X-ray Universe; Suzaku and Beyond
+    \F. Tazaki, Y. Ueda, Y. Terashima, R. Mushozky, 2011年7月, U.S., Exploring the X-ray Universe; Suzaku and Beyond
 
 “Suzaku Observations of Narrow-Line Radio Galaxies and Study of Torus Structure in ANGs with ASTRO-H”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, Y. Ueda, 2011年8月, 静岡県熱海市, 2nd ASTRO-H Summer Workshop
+    \F. Tazaki, Y. Ueda, 2011年8月, 静岡県熱海市, 2nd ASTRO-H Summer Workshop
 
 “Suzaku Study of Active Nucleus Structure in Radio Galaxies 3C 206 and PKS 0707-35”(ポスター)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, 2012年2月, 京都府京都市, GCOE Symposium "Links among Hierarchies"
+    \F. Tazaki, 2012年2月, 京都府京都市, GCOE Symposium "Links among Hierarchies"
 
 “X線観測による電波銀河アウトフローの研究”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -40,7 +40,7 @@
 
 “ASTRO-H Study of AGN Torus with Detailed Spectral Features of Iron-K Emission Lines”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, Y. Ueda, 2012年8月, 京都府京都市, 3rd ASTRO-H Summer Workshop
+    \F. Tazaki, Y. Ueda, 2012年8月, 京都府京都市, 3rd ASTRO-H Summer Workshop
 
 “X線観測による高光度電波銀河のトーラス構造の解明”(口頭)
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""" 
@@ -48,11 +48,11 @@
 	
 “X-Ray Observations of Active Galactic Nuclei with Relativistic Jets”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, 2013年2月, 京都府京都市, GCOE Symposium "Development of Emergen New Field"
+    \F. Tazaki, 2013年2月, 京都府京都市, GCOE Symposium "Development of Emergen New Field"
 
 “Torus Structure of Two Lumionous Radio-Loud AGNs observed with Suzaku”(ポスター)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, Y. Ueda, Y. Terashima, R. Mushotzky, F. Tombesi、2013年3月, 京都府京都市, 2-13 COSMOS Team Meeting
+    \F. Tazaki, Y. Ueda, Y. Terashima, R. Mushotzky, F. Tombesi、2013年3月, 京都府京都市, 2-13 COSMOS Team Meeting
 
 “電波強度の大きな活動銀河核のX線観測による系統的研究 (I)”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -72,7 +72,7 @@
 
 “Super-Resolution Images of M87 with Compressed Sensing”(ポスター)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, M. Honma, K. Akiyama, K. Hada, S. Ikeda, M. Uemura, S. Kudo, 2014年11月, Canada, EHT 2014, 
+    \F. Tazaki, M. Honma, K. Akiyama, K. Hada, S. Ikeda, M. Uemura, S. Kudo, 2014年11月, Canada, EHT 2014, 
 
 “スパースモデリングによる電波銀河M87の超解像画像の再現”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -84,15 +84,15 @@
 
 “Super-Resolved Image of M87 with Sparse Modeling”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, M. Honma, K. Akiyama, K. Hada, T. Oyama, S. Ikeda, 2015年1月, Korea, 8th KaVA Joint Science WG Meeting
+    \F. Tazaki, M. Honma, K. Akiyama, K. Hada, T. Oyama, S. Ikeda, 2015年1月, Korea, 8th KaVA Joint Science WG Meeting
 
 “Statistical Study of Radio-Loud AGNs with X-Ray and M87 Jet Base Study by New Imaging Technique with VLBI” (口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, 2015年1月, Italy, IRA Colloquia
+    \F. Tazaki, 2015年1月, Italy, IRA Colloquia
 
 “EHT-J Activities and New Imaging Technique with Sparse Modeling”(口頭)	
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, M. Honma, K. Akiyama, K. Hada, T. Oyama, S. Ikeda, 2015年1月, Italy, Workshop on mm-VLBI with ALMA
+    \F. Tazaki, M. Honma, K. Akiyama, K. Hada, T. Oyama, S. Ikeda, 2015年1月, Italy, Workshop on mm-VLBI with ALMA
 
 “疎性モデリングを用いたM87中心核の超解像イメージング”(口頭)	
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -108,4 +108,4 @@
 
 “Super-resolution Imaging of Jet Base and Core of M87 at 10-100 Rs Scale with Sparse Modeling”(口頭)
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    F. Tazaki, K. Hada, M. Honma, K. Akiyama, S. Ikeda, K. Kuramochi, 2017年7月, Taipei, 2017 Asia-Pacific Regional IAU Meeting
+    \F. Tazaki, K. Hada, M. Honma, K. Akiyama, S. Ikeda, K. Kuramochi, 2017年7月, Taipei, 2017 Asia-Pacific Regional IAU Meeting

@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 #
 # 2017/09/08 documentation build configuration file, created by
 # sphinx-quickstart on Fri Sep 08 09:10:15 2017.
@@ -16,9 +16,9 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
-# import os
-# import sys
-# sys.path.insert(0, os.path.abspath('.'))
+import os
+import sys
+sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- General configuration ------------------------------------------------
@@ -30,7 +30,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ['japanesesupport']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -45,9 +45,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'2017/09/08'
-copyright = u'2017, yohei kudo'
-author = u'yohei kudo'
+project = u"Tazaki's web page"
+copyright = u'2017, Fumie Tazaki'
+author = u'Fumie Tazaki'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -82,20 +82,31 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'nature'
-#html_theme = 'default'
+
+html_theme = 'default'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+
+html_theme_options = {
+	"nosidebar" : "True"
+}
+
+html_add_permalinks = ''
+
+html_use_index = False
+
+html_title = "Tazaki's web page"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+def setup(app):
+     app.add_stylesheet('custom.css')
 
 # -- Options for HTMLHelp output ------------------------------------------
 
@@ -153,6 +164,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
+####
 
 
 # add new comments
