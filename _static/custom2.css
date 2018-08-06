@@ -1,0 +1,181 @@
+/*   total:19 
+【css作成のポイント】
+   目的のタグ（例.h1,ul,p)を探し、「セレクタ {プロパティ名: プロパティ値;}」の型にする。
+　　　絞り込みがシンプルだと多くのタグに適応されてしまうので、多くの場合は複数のセレクタ (div.related　, .section等々)を組み合わせる必要がある。
+*/ 
+
+/* 1.すべての文字の設定：【フォント（timesを優先的に使用。その後、明朝体優先）
+                   サイズ設定（初期設定：font-size: 100%;）】 */
+* body {
+    font-family: "Times New Roman","MS Mincho","ヒラギノ角ゴ　Pro　W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo",sans-serif;
+    font-size: 110%;
+    background-color: #11303d;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+/* 2.ヘッダーの縦幅,フォントサイズ */ /* （初期設定,line-height: 45px; font-size: 90%;） */
+div.related {
+  line-height: 45px;
+  font-size: 90%;
+}
+
+/* 3.ヘッダーの文字の横幅 */ 
+div.related ul{
+  margin: 0 auto 0 auto;
+}
+
+/* 4.ドキュメントの横幅 */ 
+div.document {
+	width: 1100px;
+    margin: 0 auto 0 auto;
+}
+
+/* 5.タイトルのフォント設定 (ゴシック体優先）*/ 
+div.body h1, div.body h2, div.body h3, div.body h4, div.body h5, div.body h6 {
+	font-family: "メイリオ","Meiryo","ヒラギノ角ゴ　Pro　W3","Hiragino Kaku Gothic Pro",sans-serif;
+}
+
+/* 6.タイトル文字の大きさ：例　「FUMIE TAZAKI」、「履歴（CV）」　*/ /*初期設定:200%*/
+div.body h1 {
+    font-size: 200%;
+/*	text-align: center;*/
+}
+
+/*　7.行間隔 topページ:上　「履歴（CV）」等 */ /* 初期設定:130%*/
+div.body div#fumie-tazaki p {
+    line-height: 200%;
+}
+
+/*　8.行間隔 topページ:下　「履歴（CV）」等 */ /* 初期設定:130%*/
+/* 「200%」の設定で文字と文字の縦間隔が一文字分になる。*/
+div.body div#fumie-tazaki div.toctree-wrapper li.toctree-l1 {
+    line-height: 300%;
+}
+
+/* 9.サブタイトルの大きさ：例　「名前」、「所属」、「論文のタイトル等」　*/ /*初期設定:160%*/
+div.body h2 {
+    font-size: 120%;
+}
+
+/*　10.行間隔:「履歴（CV）」の本文 */ /* 初期設定:130%*/
+div.body div#cv blockquote div, div.body blockquote div p, div.body div#cv p,div.body div#cv li {
+    line-height: 160%;
+}
+
+/* 11.行間隔 */ /*初期設定:130%*/
+div.body dd, div.body li, div.body blockquote {
+    text-align: justify;
+    line-height: 230%;
+}
+
+/*　12.ピンポイント設定:論文タイトルのフォント:times,(h2タグ) */
+div.body div#id1 .section h2 {
+    font-family: "Times New Roman","MS Mincho","ヒラギノ明朝　Pro","Hiragino Kaku Gothic Pro",sans-serif;
+}
+
+/* 13.文字の先頭を揃える */
+ol.upperalpha {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+/* 14.ピンポイント設定:書籍のタイトル,フォント:times,縮小 */ /*初期設定:140%*/
+div.body h3 {
+	font-family: "Times New Roman","MS Mincho","ヒラギノ明朝　Pro","Hiragino Kaku Gothic Pro",sans-serif;
+	font-size: 120%;
+} 
+
+/* 15. トップ画面　写真の縦に合わせた内枠を指定:　固定：615px　　　　
+　　　　　現状：id「fumie-tazaki」のセレクタを使用*/
+#fumie-tazaki{
+    height: 615px;
+}
+
+/* ###### 追加　【template】 ###############################################################################
+16. ヘッダー　"FUMIE TAZAKI"　の表示
+17. ナビゲーションの作成
+18. フッターの修正
+19. top画面　写真のサイズ調整
+
+1.-15.も見やすさを考慮し、文字の大きさ等を微調整
+####################################################################################################### */
+
+/* 16 ヘッダー　"FUMIE TAZAKI"　の表示　*/
+div#header {
+	font-family: "メイリオ","Times New Roman","MS Mincho","ヒラギノ明朝　Pro","Hiragino Kaku Gothic Pro",sans-serif;
+	color: #FFFFFF;						/* テキストの色　*/
+	text-align: center;					/*　テキストの位置:中央 */
+    margin: 0 auto 0 auto;				/* マージンでの位置調整　*/
+	font-size: 300%;					/*文字の拡大・縮小 */
+	box-shadow: 0 0 1000px 100px #3baad9; /* 背景のぼかし*/
+}
+
+div#header p {
+   	margin-top: 60px;					/* "FUMIE TAZAKI"の空白の幅（上） */
+    margin-bottom: 40px;　　　　　　　　　　　　　/* "FUMIE TAZAKI"の空白の幅（下） */
+	background-color: #115470;	 		/* 背景の色 */
+}
+
+/* 17 ナビゲーションの作成　*/
+nav ul {
+	overflow:hidden;					/*　ulの高さを自動産出する（floatによる問題を解消する) 必要ないかもしれない */
+	width: 1080px;						/* 文字の横幅 */
+    margin: 0 auto 0 auto;				/* マージンでの位置調整　*/
+	padding: 0;							/* デフォルト：-webkit-padding-start: 40px;　を0に上書き　*/
+}
+
+nav#style {
+	height: 73.75px;					/* 【変更4】 リレーションバーと本文との隙間　*/
+/*    box-shadow: 0 0 20px 18px black; */	/* リレーションバーの影　*/
+}
+
+/*(色の指定ができないため、特別にstyleで指定して色を変える)*/
+nav#style li a {
+	color:#FFFFFF;						/* テキストの色　*/
+}
+
+nav ul li {
+	float:left;							/* リストを横並びにする　*/
+	width: 24.79%;						/* 【変更1】　等分する%　*/  /* 3等分は33.14 ? %; *//* 4等分は24.79%; */
+	list-style-type: none;				/* 箇条書きのマーカーを消す　*/
+	background-color: #133f52;			/* 背景色　*/
+/*	background-color: #11303d; */			/* 背景色　*/
+	line-height: 74px;					/* 【変更3】 ナビゲーションの高さ　*/
+	border-right: 3px solid #808080;　	/* バーの間の縦線　*/
+	box-sizing: border-box ;			/* レイアウトを崩さないため使用　*/
+}
+
+nav ul li:last-child {
+	border-right: none;					/* バーの一番右の縦線を消す　*/
+}
+
+nav ul li a {
+	font-family: "メイリオ","Times New Roman","MS Mincho","ヒラギノ明朝　Pro","Hiragino Kaku Gothic Pro",sans-serif;
+	display: block;						/* リストをブロック扱いにする　*/
+	text-align: center;					/*　テキストの位置:中央 */
+	font-size: 90%;						/* 【変更2】 文字サイズ　*/ /* 3等分は110 ? %; *//* 4等分は90%; */
+}
+
+nav ul li a:hover {
+	background-color: #4169E1;			/* マウスがボタンに乗った時の色　*/
+}
+
+/* 18 フッターの修正　*/
+div#foot {
+    background-color: #133f52;			/* 背景色　*/   
+	background-color: #11303d;			/* 背景色　*/
+    margin: 0 auto 0 auto;				/* マージンでの位置調整　*/
+	font-size: 120%;					/*　文字の拡大・縮小 */
+	line-height: 15px;					/* 【変更5】　フッターの高さ　*/
+	padding: 16px 0 0 0;				/* フッターの内側の幅　*/
+	box-shadow: 0 0 1000px 50px #3baad9;　/* 背景のぼかし*/
+}
+
+/* 19 top画面　写真のサイズ調整　*/
+img.align-right{
+    width: 553.8px !important;			/* 横幅　最優先*/
+    height: 564.9px !important;			/* 縦幅　最優先*/
+}
+
