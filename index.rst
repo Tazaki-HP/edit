@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 =======================================================
-FUMIE TAZAKI
+田崎　文得　/　FUMIE TAZAKI
 =======================================================
 
 .. image:: photo.jpg
