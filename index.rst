@@ -4,20 +4,26 @@
    contain the root `toctree` directive.
 
 =======================================================
-FUMIE TAZAKI
+田崎　文得　/　FUMIE TAZAKI
 =======================================================
 
 .. image:: photo.jpg
-   :scale: 100%
-   :width: 532.5px
-   :height: 543.2px
+   :width: 200px
    :align: right
 
 |
 
-田崎文得のホームページです。
+国立天文台水沢VLBI観測所で活動銀河核の観測的研究をしています。
 
-Here is Fumie Tazaki's web page.
+超長基線電波干渉計 (VLBI) やX線衛星の観測データを使って、ブラックホール周辺にあるジェットや降着流、さらにその周りの分子雲トーラスについて理解することを目指します。
+
+現在は、国立天文台が運用する VERA と韓国のKVN、さらに中国の電波望遠鏡を組み合わせて構築された、東アジアVLBIネットワーク (EAVN) の運用に携わります。また、全世界的なミリ波・サブミリ波VLBIのプロジェクト『イベント・ホライズン・テレスコープ (EHT)』のメンバーとして、画像復元ツールの開発や実際のデータ解析に貢献しています。EHT の広報活動を取りまとめる役割も担っています。
+
+プライベートでは、1児の母です。
+
+| [連絡先]
+| fumie.tazaki_アット_nao.ac.jp
+| (_アット_を@に変えてください)
 
 |
 
@@ -29,3 +35,4 @@ Here is Fumie Tazaki's web page.
 
    contents/CV
    contents/Achievement
+   contents/Outreach

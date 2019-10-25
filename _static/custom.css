@@ -8,7 +8,7 @@
                    サイズ設定（初期設定：font-size: 100%;）】 */
 * body {
     font-family: "Times New Roman","MS Mincho","ヒラギノ角ゴ　Pro　W3","Hiragino Kaku Gothic Pro","メイリオ","Meiryo",sans-serif;
-    font-size: 130%;
+    font-size: 100%;
     background-color: #11303d;
     color: #000;
     margin: 0;

@@ -69,3 +69,43 @@
 “Superresolution Interferometric Imaging with Sparse Modeling Using Total Squared Variation: Application to Imaging the Black Hole Shadow”
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
     `Kuramochi, K., Akiyama, K., Ikeda, S., Tazaki, F., Fish, V., Pu, H., Asada, K., & Honma, M., 2018, ApJ, 858, 56 <http://adsabs.harvard.edu/abs/2018ApJ...858...56K>`_
+
+“Parabolic Jets from the Spinning Black Hole in M87”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Nakamura, M., Asada, K., Hada, K., Pu, H., Noble, S., Tseng, C., Toma, K., Kino, M., Nagai, H.,　Takahashi, K., Algaba, J., Orienti, M., Akiyama, K., Doi, A., Giovannini, G., Giroletti, M., Honma, M., Koyama, S., Lico, R., Niinuma, K., & Tazaki, F., 2018, ApJ, 868, 146  <http://adsabs.harvard.edu/abs/2018ApJ...868..146N>`_
+
+“Source-Frequency Phase-Referencing Observation of AGNS with KAVA Using Simultaneous Dual- Frequency Receiving”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Zhao, G., Jung, T., Sohn, B., Kino, M., Honma, M., Dodson, R., Rioja, M., Han, S., Shibata, K., Byun, D., Akiyama, K., Algaba, J., An, T., Cheng, X., Cho, I., Cui, Y., Hada, K., Hodgson, J., Jiang, W., Lee, J., Lee, J., Niinuma, K., Park, J., Ro, H., Sawada-Satoh, S., Shen, Z., Tazaki, F., Trippe, S., Wajima, K., & Zhang, Y., 2019, JKAS, 52, 23  <http://adsabs.harvard.edu/abs/2019JKAS...52...23Z>`_
+
+“First M87 Event Horizon Telescope Results. I. The Shadow of the Supermassive Black Hole”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Event Horizon Telescope Collaboration, 2019, ApJ, 875, 1  <http://adsabs.harvard.edu/abs/2019ApJ...875L...1E>`_
+
+“First M87 Event Horizon Telescope Results. II. Array and Instrumentation”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Event Horizon Telescope Collaboration, 2019, ApJ, 875, 2  <http://adsabs.harvard.edu/abs/2019ApJ...875L...2E>`_
+
+“First M87 Event Horizon Telescope Results. III. Data Processing and Calibration”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Event Horizon Telescope Collaboration, 2019, ApJ, 875, 3  <http://adsabs.harvard.edu/abs/2019ApJ...875L...3E>`_
+
+“First M87 Event Horizon Telescope Results. IV. Imaging the Central Supermassive Black Hole”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Event Horizon Telescope Collaboration, 2019, ApJ, 875, 4  <http://adsabs.harvard.edu/abs/2019ApJ...875L...4E>`_
+
+“First M87 Event Horizon Telescope Results. V. Physical Origin of the Asymmetric Ring”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Event Horizon Telescope Collaboration, 2019, ApJ, 875, 5  <http://adsabs.harvard.edu/abs/2019ApJ...875L...5E>`_
+
+“First M87 Event Horizon Telescope Results. VI. The Shadow and Mass of the Central Black Hole”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Event Horizon Telescope Collaboration, 2019, ApJ, 875, 6  <http://adsabs.harvard.edu/abs/2019ApJ...875L...6E>`_
+
+“Jet kinematics of the quasar 4C+21.35 from observations with the KaVA very long baseline interferometry array”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Lee, T., Trippe, S., Kino, M., Sohn, B., Park, J., Oh, J., Hada, K., Niinuma, K., Ro, H., Jung, T., Zhao, G., Lee, S., Algaba, J., Akiyama, K., Wajima, K., Sawada-Satoh, S., Tazaki, F., Cho, I., Hodgson, J., Lee, J., Hagiwara, Y., Honma, M., Koyama, S., An, T., Cui, Y., Yoo, H., Kawaguchi, N., Roh, D., Oh, S., Yeom, J., Jung, D., Oh, C., Kim, H.-R., Hwang, J., Byun, D., Cho, S., Kim, H.-G. Kobayashi, H., Shibata, K. M, Shen, Z., Jiang, W., & Lee, J. W., 2019, MNRAS, 486, 2412  <http://adsabs.harvard.edu/abs/2019MNRAS.486.2412L>`_
+
+“The Event Horizon General Relativistic Magnetohydrodynamic Code Comparison Project”
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+    `Event Horizon Telescope Collaboration, 2019, ApJS, 243, 26  <http://adsabs.harvard.edu/abs/2019ApJS..243...26P>`_
